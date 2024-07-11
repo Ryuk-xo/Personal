@@ -1,0 +1,97 @@
+body{
+    background-color: #5a636a;
+}
+h2 {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+h1{
+
+    color: #fcd9b8;
+    margin-left: 10px;
+}
+.home{
+    position: relative;
+    margin-left: 5px;
+    background-color: #e09145;
+    border-radius: 5px;
+    height: 150px;
+    text-transform: capitalize;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.home>p,.contact>p{
+    margin-left: 20px;
+    color: #fcd9b8;
+    
+}
+h3{
+    margin-left: 5px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+}
+.skill{
+    position: static;
+    margin-left: 5px;
+    color: #fcd9b8;
+    width: auto;
+    height: 200px;
+    background-color: #c0754d;
+    border-radius: 5px;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+.about{
+    width: auto;
+    margin-left: 5px;
+    border-radius: 5px;
+    height: 200px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.proj,.contact{
+    color: #fcd9b8;
+    width: auto;
+    margin-left: 5px;
+    border-radius: 5px;
+    height: 125px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    background-color: #292c35;
+}
+footer{
+    color: #959595;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+
+}
+a {
+    color: #aea7a3;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#ffffff; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
